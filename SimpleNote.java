@@ -1,9 +1,3 @@
-package assignment6;
-
-// Kelvin Bhual
-// Assignment 6
-// COP 3330
-
 import java.awt.*;
 import java.awt.event.*;
 import java.io.*;
@@ -105,3 +99,4 @@ public class SimpleNote extends JFrame implements ActionListener {
 	}
 
 }
+
